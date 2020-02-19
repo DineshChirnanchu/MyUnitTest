@@ -11,7 +11,7 @@
     <UnitTestResult executionId="505289f0-1013-4c4f-be25-ee386daab3dc" testId="6d6c191b-9585-d9b5-22ec-0e088e95d636" testName="TestMethod3" computerName="DINESHCH" duration="00:00:00.0000667" startTime="2020-02-19T14:58:30.6781479+05:30" endTime="2020-02-19T14:58:30.6781479+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="505289f0-1013-4c4f-be25-ee386daab3dc" />
   </Results>
   <TestDefinitions>
-    <UnitTest name="TestMethod2" storage="c:\users\v-dinchi\source\repos\sampleuttest\sampleuttest\bin\release\sampleuttest.dll" id="0637d386-aec4-95c1-2347-cf1328bba0bb">
+    UnitTest name="TestMethod2" storage="c:\users\v-dinchi\source\repos\sampleuttest\sampleuttest\bin\release\sampleuttest.dll" id="0637d386-aec4-95c1-2347-cf1328bba0bb">
       <Execution id="5f02e5ec-1495-4d3a-bf65-eeec75af1a2b" />
       <TestMethod codeBase="C:\Users\v-dinchi\source\repos\SampleUTTest\SampleUTTest\bin\Release\SampleUTTest.dll" adapterTypeName="executor://mstestadapter/v2" className="SampleUTTest.UnitTest1" name="TestMethod2" />
     </UnitTest>
