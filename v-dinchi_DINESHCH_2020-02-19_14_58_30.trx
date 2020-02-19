@@ -4,7 +4,12 @@
   <TestSettings name="default" id="752ba48e-7a7c-464e-95eb-d4fb4f9c8442">
     <Deployment runDeploymentRoot="v-dinchi_DINESHCH_2020-02-19_14_58_30" />
   </TestSettings>
-  
+  <Results>
+    <UnitTestResult executionId="5f02e5ec-1495-4d3a-bf65-eeec75af1a2b" testId="0637d386-aec4-95c1-2347-cf1328bba0bb" testName="TestMethod2" computerName="DINESHCH" duration="00:00:00.0000707" startTime="2020-02-19T14:58:30.6771161+05:30" endTime="2020-02-19T14:58:30.6781479+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5f02e5ec-1495-4d3a-bf65-eeec75af1a2b" />
+    <UnitTestResult executionId="dafc650e-4479-47fa-9bde-cee9a9503121" testId="263e1d2a-99c0-a65b-261a-7ba08e7c02a5" testName="TestMethod4" computerName="DINESHCH" duration="00:00:00.0000612" startTime="2020-02-19T14:58:30.6781479+05:30" endTime="2020-02-19T14:58:30.6781479+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dafc650e-4479-47fa-9bde-cee9a9503121" />
+    <UnitTestResult executionId="cbc537cc-f68b-49a7-aa23-d254a556225e" testId="6b3205d3-b41d-a83e-d52c-2ee2e2cde545" testName="TestMethod1" computerName="DINESHCH" duration="00:00:00.0065763" startTime="2020-02-19T14:58:30.6191501+05:30" endTime="2020-02-19T14:58:30.6701457+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cbc537cc-f68b-49a7-aa23-d254a556225e" />
+    <UnitTestResult executionId="505289f0-1013-4c4f-be25-ee386daab3dc" testId="6d6c191b-9585-d9b5-22ec-0e088e95d636" testName="TestMethod3" computerName="DINESHCH" duration="00:00:00.0000667" startTime="2020-02-19T14:58:30.6781479+05:30" endTime="2020-02-19T14:58:30.6781479+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="505289f0-1013-4c4f-be25-ee386daab3dc" />
+  </Results>
   <TestDefinitions>
     <UnitTest name="TestMethod2" storage="c:\users\v-dinchi\source\repos\sampleuttest\sampleuttest\bin\release\sampleuttest.dll" id="0637d386-aec4-95c1-2347-cf1328bba0bb">
       <Execution id="5f02e5ec-1495-4d3a-bf65-eeec75af1a2b" />
@@ -18,10 +23,7 @@
       <Execution id="cbc537cc-f68b-49a7-aa23-d254a556225e" />
       <TestMethod codeBase="C:\Users\v-dinchi\source\repos\SampleUTTest\SampleUTTest\bin\Release\SampleUTTest.dll" adapterTypeName="executor://mstestadapter/v2" className="SampleUTTest.UnitTest1" name="TestMethod1" />
     </UnitTest>
-    <UnitTest name="TestMethod4" storage="c:\users\v-dinchi\source\repos\sampleuttest\sampleuttest\bin\release\sampleuttest.dll" id="263e1d2a-99c0-a65b-261a-7ba08e7c02a5">
-      <Execution id="dafc650e-4479-47fa-9bde-cee9a9503121" />
-      <TestMethod codeBase="C:\Users\v-dinchi\source\repos\SampleUTTest\SampleUTTest\bin\Release\SampleUTTest.dll" adapterTypeName="executor://mstestadapter/v2" className="SampleUTTest.UnitTest1" name="TestMethod4" />
-    </UnitTest>
+    
   </TestDefinitions>
   <TestEntries>
     <TestEntry testId="0637d386-aec4-95c1-2347-cf1328bba0bb" executionId="5f02e5ec-1495-4d3a-bf65-eeec75af1a2b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
