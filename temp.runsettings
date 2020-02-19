@@ -1,0 +1,8 @@
+<RunSettings>
+    <LoggerRunSettings>
+        <Loggers>         
+            <Logger uri="logger://Microsoft/TestPlatform/TrxLogger/v1"
+                    friendlyName="TrxLogger" />          
+        </Loggers>
+    </LoggerRunSettings>
+</RunSettings>
