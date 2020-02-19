@@ -24,7 +24,7 @@
       <TestMethod codeBase="C:\Users\v-dinchi\source\repos\SampleUTTest\SampleUTTest\bin\Release\SampleUTTest.dll" adapterTypeName="executor://mstestadapter/v2" className="SampleUTTest.UnitTest1" name="TestMethod1" />
     </UnitTest>
     <UnitTest name="TestMethod4" storage="c:\users\v-dinchi\source\repos\sampleuttest\sampleuttest\bin\release\sampleuttest.dll" id="263e1d2a-99c0-a65b-261a-7ba08e7c02a5">
-      
+      <Execution id="dafc650e-4479-47fa-9bde-cee9a9503121" />
       <TestMethod codeBase="C:\Users\v-dinchi\source\repos\SampleUTTest\SampleUTTest\bin\Release\SampleUTTest.dll" adapterTypeName="executor://mstestadapter/v2" className="SampleUTTest.UnitTest1" name="TestMethod4" />
     </UnitTest>
   </TestDefinitions>
