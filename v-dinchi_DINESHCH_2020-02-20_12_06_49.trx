@@ -47,12 +47,12 @@ Actual:   True</Message>
       <StdOut>[xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v2.4.0 (64-bit .NET Core 4.6.28008.01)[xUnit.net 00:00:00.54]   Discovering: XUnitTestProject1[xUnit.net 00:00:00.62]   Discovered:  XUnitTestProject1[xUnit.net 00:00:00.63]   Starting:    XUnitTestProject1[xUnit.net 00:00:00.85]       Assert.Equal() Failure[xUnit.net 00:00:00.85]       Expected: False[xUnit.net 00:00:00.85]       Actual:   True[xUnit.net 00:00:00.85]       Stack Trace:[xUnit.net 00:00:00.85]         C:\Users\v-dinchi\source\repos\XUnitTestProject1\XUnitTestProject1\UnitTest1.cs(20,0): at XUnitTestProject1.UnitTest1.SampleDataDrivenTest(String val, Boolean expectedResult)[xUnit.net 00:00:00.86]   Finished:    XUnitTestProject1</StdOut>
     </Output>
     <RunInf>
-      <RunInfo computerName="DINESHCH" outcome="Warning" timestamp="2020-02-20T12:06:48.9979650+05:30">
+      <RunIn computerName="DINESHCH" outcome="Warning" timestamp="2020-02-20T12:06:48.9979650+05:30">
         <Text>[xUnit.net 00:00:00.63] XUnitTestProject1: Skipping test case with duplicate ID '7d8f334f5a6f27d53e55e9f61cf0f65850e15d20' ('XUnitTestProject1.UnitTest1.SampleDataDrivenTest(val: "", expectedResult: False)' and 'XUnitTestProject1.UnitTest1.SampleDataDrivenTest(val: "", expectedResult: False)')</Text>
-      </RunInfo>
-      <RunInfo computerName="DINESHCH" outcome="Error" timestamp="2020-02-20T12:06:49.2199415+05:30">
+      </RunIn>
+      <RunIn computerName="DINESHCH" outcome="Error" timestamp="2020-02-20T12:06:49.2199415+05:30">
         <Text>[xUnit.net 00:00:00.85]     XUnitTestProject1.UnitTest1.SampleDataDrivenTest(val: "", expectedResult: True) [FAIL]</Text>
-      </RunInfo>
-    </RunInfos>
+      </RunIn>
+    </RunInf>
   </ResultSumma>
 </TestRun>
