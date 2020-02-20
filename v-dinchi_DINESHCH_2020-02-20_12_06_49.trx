@@ -5,7 +5,7 @@
     <Deployment runDeploymentRoot="v-dinchi_DINESHCH_2020-02-20_12_06_49" />
   </TestSettings>
   
-    <ns0:UnitTestResult executionId="c060aad1-b370-4832-8d32-04c518eebf04" testId="081d0c46-6e06-9dd9-ab0a-7ec96418450f" testName="XUnitTestProject1.UnitTest1.SampleDataDrivenTest(val: &quot;check&quot;, expectedResult: True)" computerName="DINESHCH" duration="00:00:00.0100000" startTime="2020-02-20T12:06:49.1396541+05:30" endTime="2020-02-20T12:06:49.1396611+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c060aad1-b370-4832-8d32-04c518eebf04" />
+    <UitTestResult executionId="c060aad1-b370-4832-8d32-04c518eebf04"  testName="XUnitTestProject1.UnitTest1.SampleDataDrivenTest(val: &quot;check&quot;, expectedResult: True)" computerName="DINESHCH" duration="00:00:00.0100000" startTime="2020-02-20T12:06:49.1396541+05:30" endTime="2020-02-20T12:06:49.1396611+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c060aad1-b370-4832-8d32-04c518eebf04" />
     
 
   <TestDefinitions>
