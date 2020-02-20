@@ -23,16 +23,13 @@
       <Execution id="cbc537cc-f68b-49a7-aa23-d254a556225e" />
       <TestMethod codeBase="C:\Users\v-dinchi\source\repos\SampleUTTest\SampleUTTest\bin\Release\SampleUTTest.dll" adapterTypeName="executor://mstestadapter/v2" className="SampleUTTest.UnitTest1" name="TestMethod1" />
     </UnitTest>
-    <UnitTest name="TestMethod4" storage="c:\users\v-dinchi\source\repos\sampleuttest\sampleuttest\bin\release\sampleuttest.dll" id="263e1d2a-99c0-a65b-261a-7ba08e7c02a5">
-      <Execution id="dafc650e-4479-47fa-9bde-cee9a9503121" />
-      <TestMethod codeBase="C:\Users\v-dinchi\source\repos\SampleUTTest\SampleUTTest\bin\Release\SampleUTTest.dll" adapterTypeName="executor://mstestadapter/v2" className="SampleUTTest.UnitTest1" name="TestMethod4" />
-    </UnitTest>
+
   </TestDefinitions>
   <TestEntries>
     <TestEntry testId="0637d386-aec4-95c1-2347-cf1328bba0bb" executionId="5f02e5ec-1495-4d3a-bf65-eeec75af1a2b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
     <TestEntry testId="263e1d2a-99c0-a65b-261a-7ba08e7c02a5" executionId="dafc650e-4479-47fa-9bde-cee9a9503121" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
     <TestEntry testId="6b3205d3-b41d-a83e-d52c-2ee2e2cde545" executionId="cbc537cc-f68b-49a7-aa23-d254a556225e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
-    <TestEntry testId="6d6c191b-9585-d9b5-22ec-0e088e95d636" executionId="505289f0-1013-4c4f-be25-ee386daab3dc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+
   </TestEntries>
   <TestLists>
     <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
