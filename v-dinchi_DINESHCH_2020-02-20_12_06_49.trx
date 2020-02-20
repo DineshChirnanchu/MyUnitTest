@@ -3,7 +3,7 @@
   <Time creation="2020-02-20T12:06:49.4189731+05:30" queuing="2020-02-20T12:06:49.4189731+05:30" start="2020-02-20T12:06:47.7109647+05:30" finish="2020-02-20T12:06:49.4539700+05:30" />
   <TestSettin name="default" id="22b0afbc-9a15-49e1-8841-4c1464d6ad84">
     <Deployment runDeploymentRoot="v-dinchi_DINESHCH_2020-02-20_12_06_49" />
-  </TestSettings>
+  </TestSettin>
   <Resul>
     <UnitTestResu executionId="c060aad1-b370-4832-8d32-04c518eebf04" testId="081d0c46-6e06-9dd9-ab0a-7ec96418450f" testName="XUnitTestProject1.UnitTest1.SampleDataDrivenTest(val: &quot;check&quot;, expectedResult: True)" computerName="DINESHCH" duration="00:00:00.0100000" startTime="2020-02-20T12:06:49.1396541+05:30" endTime="2020-02-20T12:06:49.1396611+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c060aad1-b370-4832-8d32-04c518eebf04" />
     <UnitTestResu executionId="e9a5f61a-45d0-42a8-bf62-41f76f77e0d0" testId="5d926ea8-0866-8669-dc20-648d7a177be7" testName="XUnitTestProject1.UnitTest1.SampleDataDrivenTest(val: &quot;&quot;, expectedResult: False)" computerName="DINESHCH" duration="00:00:00.0010000" startTime="2020-02-20T12:06:49.1470506+05:30" endTime="2020-02-20T12:06:49.1470509+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e9a5f61a-45d0-42a8-bf62-41f76f77e0d0" />
@@ -17,7 +17,7 @@ Actual:   True</Message>
         </ErrorInfo>
       </Output>
     </UnitTestResu>
-  </Results>
+  </Resul>
   <TestDefinitio>
     <UnitTest name="XUnitTestProject1.UnitTest1.SampleDataDrivenTest(val: &quot;&quot;, expectedResult: False)" storage="c:\users\v-dinchi\source\repos\xunittestproject1\xunittestproject1\bin\debug\netcoreapp2.1\xunittestproject1.dll" id="5d926ea8-0866-8669-dc20-648d7a177be7">
       <Execution id="e9a5f61a-45d0-42a8-bf62-41f76f77e0d0" />
@@ -31,16 +31,16 @@ Actual:   True</Message>
       <Execution id="2e69f26a-bbe2-4cac-986e-3ee0cfd3c3f3" />
       <TestMethod codeBase="C:\Users\v-dinchi\source\repos\XUnitTestProject1\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="XUnitTestProject1.UnitTest1" name="XUnitTestProject1.UnitTest1.SampleDataDrivenTest(val: &quot;&quot;, expectedResult: True)" />
     </UnitTest>
-  </TestDefinitions>
+  </TestDefinitio>
   <TestEntri>
     <TestEntry testId="081d0c46-6e06-9dd9-ab0a-7ec96418450f" executionId="c060aad1-b370-4832-8d32-04c518eebf04" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
     <TestEntry testId="5d926ea8-0866-8669-dc20-648d7a177be7" executionId="e9a5f61a-45d0-42a8-bf62-41f76f77e0d0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
     <TestEntry testId="42c68170-38ec-993b-0284-6f499182df7b" executionId="2e69f26a-bbe2-4cac-986e-3ee0cfd3c3f3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
-  </TestEntries>
+  </TestEntri>
   <TestLis>
     <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
     <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
-  </TestLists>
+  </TestLis>
   <ResultSumma outcome="Failed">
     <Counters total="3" executed="3" passed="2" failed="1" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
     <Output>
@@ -54,5 +54,5 @@ Actual:   True</Message>
         <Text>[xUnit.net 00:00:00.85]     XUnitTestProject1.UnitTest1.SampleDataDrivenTest(val: "", expectedResult: True) [FAIL]</Text>
       </RunInfo>
     </RunInfos>
-  </ResultSummary>
+  </ResultSumma>
 </TestRun>
