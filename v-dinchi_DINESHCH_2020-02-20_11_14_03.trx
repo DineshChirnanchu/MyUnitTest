@@ -11,10 +11,7 @@
     <UnitTestResult executionId="94c7292c-2994-4f31-9d0f-faed7ca55a5f" testId="95e75da9-f91d-0c69-62bf-c732a3cf23c0" testName="XUnitTestProject1.UnitTest1.SampleDataDrivenTest(number: 1, expectedResult: True)" computerName="DINESHCH" duration="00:00:00.0010000" startTime="2020-02-20T11:14:03.2371806+05:30" endTime="2020-02-20T11:14:03.2371806+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="94c7292c-2994-4f31-9d0f-faed7ca55a5f" />
   </Results>
   <TestDefinitions>
-    <UnitTest name="XUnitTestProject1.UnitTest1.SampleDataDrivenTest(number: 1, expectedResult: True)" storage="c:\users\v-dinchi\source\repos\xunittestproject1\xunittestproject1\bin\debug\netcoreapp2.1\xunittestproject1.dll" id="95e75da9-f91d-0c69-62bf-c732a3cf23c0">
-      <Execution id="94c7292c-2994-4f31-9d0f-faed7ca55a5f" />
-      <TestMethod codeBase="C:\Users\v-dinchi\source\repos\XUnitTestProject1\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="XUnitTestProject1.UnitTest1" name="XUnitTestProject1.UnitTest1.SampleDataDrivenTest(number: 1, expectedResult: True)" />
-    </UnitTest>
+    
     <UnitTest name="XUnitTestProject1.UnitTest1.SampleDataDrivenTest(number: 0, expectedResult: False)" storage="c:\users\v-dinchi\source\repos\xunittestproject1\xunittestproject1\bin\debug\netcoreapp2.1\xunittestproject1.dll" id="fdcab894-0de3-6118-52fb-40cb3eec27ac">
       <Execution id="ada12489-44b6-4fca-a08a-d39dee1b8021" />
       <TestMethod codeBase="C:\Users\v-dinchi\source\repos\XUnitTestProject1\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="XUnitTestProject1.UnitTest1" name="XUnitTestProject1.UnitTest1.SampleDataDrivenTest(number: 0, expectedResult: False)" />
