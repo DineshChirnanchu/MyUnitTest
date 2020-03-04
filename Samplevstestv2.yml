@@ -1,0 +1,18 @@
+# The objective is to perform VSTESTV2 with RunSettings
+
+trigger:
+- master
+jobs:
+- job: RunTest2
+  displayName: 'Run Tests'
+  pool: Default
+  steps:      
+  - task: VisualStudioTestPlatformInstaller@1
+    displayName: 'Visual Studio Test Platform Installer'
+    inputs:
+      versionSelector: 'latestPreRelease'
+  - task: VSTest@2
+    inputs:
+      testSelector: 'testAssemblies'
+      testAssemblyVer2: '**/*test*.dll'
+      vsTestVersion: '2.164.2'
